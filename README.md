@@ -62,7 +62,6 @@ Watch the full OralVis App Demo here:
 📌 https://drive.google.com/file/d/1iDMefbjBZSSjASs4RYPFXfgiRCs477G1/view?usp=drive_link
 
 
-
 ## **👨‍💻 Author**
 
 **Shushant GH**
